@@ -13,7 +13,7 @@ print(5*3)          #15
 print(5/2)          #2.5
 
 # division
-print(5//2)         #5
+print(5//2)         #2
 
 # modulo
 print(6%5)          #1
