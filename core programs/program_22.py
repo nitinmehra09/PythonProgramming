@@ -6,4 +6,6 @@ while i<len(n):
     sum=sum+j
     i+=1
 
-print(f"sum of {n[0]}+{n[1]}+{n[3]}+.... is {sum}")
+a = "+".join(n)
+
+print(f"sum of {a} is {sum}")
