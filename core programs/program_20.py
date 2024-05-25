@@ -4,7 +4,7 @@ sum = 0
 i=1
 
 while i<=20:
-    print(f"Sum at {i} term is {sum}")
+    print(f"Sum of {i} term is {sum}")
     sum=sum+i
     i+=1
     

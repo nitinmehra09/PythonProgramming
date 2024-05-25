@@ -9,6 +9,7 @@ while True:
     attempts +=1
     if (n==winning_number):
         print(f"you win !!! it took {attempts} times")
+        break
     elif(n<winning_number):
         print("too low")
     else:
