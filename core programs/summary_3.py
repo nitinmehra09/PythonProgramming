@@ -1,10 +1,10 @@
-i=0
-if (0<i<10):
-    print(f"{i} is less then 10 ")
-elif(i==0):
-    print(f"{i} is equal to zero")
-else:
-    print(f"{i} is grater then 10 ")
+# i=0
+# if (0<i<10):
+#     print(f"{i} is less then 10 ")
+# elif(i==0):
+#     print(f"{i} is equal to zero")
+# else:
+#     print(f"{i} is grater then 10 ")
 
 
 # # and // or
