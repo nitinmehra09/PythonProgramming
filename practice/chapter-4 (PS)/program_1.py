@@ -1,0 +1,18 @@
+fruits = []
+
+f1 = int(input("Enter 1st students marks : "))
+fruits.append(f1)
+f2 = int(input("Enter 2nd students marks : "))
+fruits.append(f2)
+f3 = int(input("Enter 3rd students marks : "))
+fruits.append(f3)
+f4 = int(input("Enter 4th students marks : "))
+fruits.append(f4)
+f5 =int( input("Enter 5th students marks : "))
+fruits.append(f5)
+f6 = int(input("Enter 6th students marks : "))
+fruits.append(f6)
+f7 = int(input("Enter 7th students marks : "))
+fruits.append(f7)
+fruits.sort()
+print(fruits)
