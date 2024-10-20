@@ -10,4 +10,4 @@ def print_pattern(n):
     print("*"*n)
     return print_pattern(n-1)
 
-print_pattern(3)
+print_pattern(7)
