@@ -1,5 +1,3 @@
-Here's a simple and engaging `README.md` template you can use to document your Python learning journey on GitHub:
-
 ---
 
 # 🚀 My Python Learning Journey 🐍
@@ -71,4 +69,3 @@ Thanks for visiting my repository! I hope you find my journey inspiring or helpf
 
 ---
 
-Feel free to customize the above template to suit your preferences! If you'd like, I can also help create a draft README specific to your current progress and goals. Let me know! 😊
