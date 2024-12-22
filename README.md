@@ -1,5 +1,3 @@
----
-
 # 🚀 My Python Learning Journey 🐍
 
 Welcome to my GitHub repository where I document and share my Python learning journey! 🎉 This space is all about growth, experimentation, and fun as I explore the world of programming with Python. Whether you're a beginner like me or an experienced developer, feel free to check out my progress and share your thoughts! 😊
