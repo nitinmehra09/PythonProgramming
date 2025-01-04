@@ -15,4 +15,4 @@ else:
 
 
 print(f"The weather in {user_input}  is: {weather}")
-print(f"The temperature in {user_input} is: {temp}ºF")
+print(f"The temperature in {user_input} is: {temp}ºC")
