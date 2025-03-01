@@ -1,69 +1,75 @@
-# 🚀 My Python Learning Journey 🐍
+# 🚀 Data Structures in C – No Algorithms, Just Pure Magic! ✨
 
-Welcome to my GitHub repository where I document and share my Python learning journey! 🎉 This space is all about growth, experimentation, and fun as I explore the world of programming with Python. Whether you're a beginner like me or an experienced developer, feel free to check out my progress and share your thoughts! 😊
+Welcome to the **Data Wonderland**, where C reigns supreme, and algorithms take a backseat! This repository is dedicated to **learning, implementing, and mastering data structures in C**—no sorting, no searching, just pure structural goodness. 📚
 
 ---
 
 ## 🌟 About This Repository
-- **Purpose**: To track my learning milestones, share projects, and upload code snippets as I improve my Python skills.
+- **Purpose**: To provide clean, modular, and well-documented C implementations of fundamental data structures.
 - **Focus Areas**:
-  - Core Python syntax and features
-  - Data structures and algorithms
-  - Building small projects
-  - Learning through real-world challenges
+  - Efficient memory management
+  - Understanding how data is stored and manipulated
+  - Hands-on coding experience with core structures
 
 ---
 
-## 📚 Current Progress
-Here's an overview of what I'm working on:
-1. **Basics of Python**:
-   - Variables, data types, and operators
-   - Loops and conditionals
-2. **Projects**:
-   - [Simple Task Manager](path-to-code)
-   - Weather application (coming soon!)
-3. **Future Goals**:
-   - Learn object-oriented programming
-   - Work with external libraries and APIs
-   - Build a web application using Python frameworks
+## 📚 Data Structures Included
+Here's what you'll find in this repository:
+1. **Basic Structures**:
+   - Arrays 📊
+   - Linked Lists 🔗
+2. **Linear Data Structures**:
+   - Stacks 📚
+   - Queues 🎟️
+3. **Non-Linear Data Structures**:
+   - Trees 🌳
+   - Graphs 🕸️
+4. **Hashing**:
+   - Hash Tables 🔑
+   - Collision Handling Methods
+
+More structures will be added over time! 🚀
 
 ---
 
 ## 📂 Repository Structure
 ```
-📦 my-python-journey
-├── 📁 basics            # Beginner-level code snippets
-├── 📁 projects          # Small projects I've built
-├── 📁 algorithms        # Problem-solving practice
+📦 data-structures-in-c
+├── 📁 arrays            # Array implementations
+├── 📁 linked_lists      # Single/Doubly/Circular Linked Lists
+├── 📁 stacks            # Stack operations
+├── 📁 queues            # Queue implementations
+├── 📁 trees             # Binary Trees, BST, etc.
+├── 📁 graphs            # Graph representation
+├── 📁 hashing           # Hash Tables & Collision Handling
 └── README.md            # This file!
 ```
-
----
-
-## ✨ Highlights
-- I'm currently working on a **Task Manager** project! Check out the code [here](path-to-task-manager).
-- My next big project: Building a **Weather App** using Python! Stay tuned. 🌦️
 
 ---
 
 ## 📈 How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/my-python-journey.git
+   git clone https://github.com/your-username/data-structures-in-c.git
    ```
-2. Explore the directories to see my progress.
+2. Navigate to the relevant directory and compile the C programs.
+   ```bash
+   cd stacks
+   gcc stack.c -o stack
+   ./stack
+   ```
 
 ---
 
 ## 🤝 Contributions
-This repository is a personal learning space, but feedback and suggestions are always welcome! Feel free to:
-- Create an issue if you spot any errors.
-- Open a pull request with improvements.
+This is a community-friendly repository! Feel free to:
+- Open an **issue** if you find bugs or have suggestions.
+- Submit a **pull request** with improvements or new data structures.
 
 ---
 
 ## ❤️ Thank You
-Thanks for visiting my repository! I hope you find my journey inspiring or helpful in your own learning. Let's keep learning and growing together. 🌟
+Thanks for visiting this repository! I hope it serves as a valuable resource in your journey to mastering data structures in C. Happy coding! 🎯
 
 ---
 
