@@ -31,10 +31,25 @@ Here's an overview of what I'm working on:
 
 ## 📂 Repository Structure
 📦 my-python-journey
-├── 📁 basics            # Beginner-level code snippets
-├── 📁 projects          # Small projects I've built
-├── 📁 algorithms        # Problem-solving practice
-└── README.md            # This file!
+Python/                   # Root folder for everything Python  
+│-- Core_Programs/        # Fundamental Python programs & practice  
+│   │-- basics/           # Python syntax, loops, conditions, functions  
+│   │-- OOP/              # Object-Oriented Programming concepts  
+│   │-- data_structures/  # Lists, tuples, dictionaries, sets, queues, stacks  
+│   │-- algorithms/       # Searching, sorting, recursion, dynamic programming  
+│   │-- modules/          # Custom Python modules and utilities  
+│   │-- file_handling/    # Working with files (CSV, JSON, XML, etc.)  
+│-- Projects/             # Real-world applications  
+│   │-- Web_Development/  # Flask, Django projects  
+│   │-- AI_ML/            # Machine Learning, Deep Learning projects  
+│   │-- Automation/       # Scripting, task automation  
+│   │-- Data_Science/     # Pandas, NumPy, Matplotlib, data analysis  
+│   │-- Game_Dev/         # Pygame, AI-based games  
+│   │-- APIs/             # REST APIs, FastAPI, Flask APIs  
+│-- Learning_Resources/   # Notes, tutorials, books, and references  
+│-- Experiments/          # Testing new ideas, debugging code  
+│-- README.md             # Overview of your learning path  
+
 
 
 ---
