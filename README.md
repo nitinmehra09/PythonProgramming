@@ -23,7 +23,7 @@ This repository serves as a structured learning path to enhance my Python skills
 - [x] Variables, Data Types, and Operators  
 - [x] Loops and Conditionals  
 - [ ] Object-Oriented Programming (OOP)  
-- [ ] File Handling and Modules  
+- [x] File Handling and Modules  
 
 ### 🚀 **Projects**  
 | Project Name                  | Status         | Last Updated |
