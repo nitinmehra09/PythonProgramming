@@ -22,7 +22,7 @@ This repository serves as a structured learning path to enhance my Python skills
 ### ✅ **Fundamentals of Python**  
 - [x] Variables, Data Types, and Operators  
 - [x] Loops and Conditionals  
-- [ ] Object-Oriented Programming (OOP)  
+- [x] Object-Oriented Programming (OOP)  
 - [x] File Handling and Modules  
 
 ### 🚀 **Projects**  
@@ -30,17 +30,17 @@ This repository serves as a structured learning path to enhance my Python skills
 |--------------------------------|---------------|--------------|
 | 📝 Email Validation            | Completed ✅  | 3 months ago |
 | 🔑 Instagram Automation        | Completed ✅  | 3 months ago |
-| 🎨 Lorenz Attractor Animation  | Updated ⚡    | 2 months ago |
+| 🎨 Lorenz Attractor Animation  | Completed ✅    | 2 months ago |
 | 🔢 Password Generator          | Completed ✅  | 3 months ago |
 | 📑 PDF Merger                  | Completed ✅  | 3 months ago |
 | 📱 QR Code Generator           | Completed ✅  | 2 months ago |
-| 🤖 Robo Speaker                | Updated ⚡    | 3 months ago |
+| 🤖 Robo Speaker                | Completed ✅   | 3 months ago |
 | 🎮 Snake Water Gun Game        | Completed ✅  | 2 months ago |
-| 📝 To-Do List                  | Updated ⚡    | 3 months ago |
+| 📝 To-Do List                  | Completed ✅    | 3 months ago |
 | 🌦 Weather App                 | Completed ✅  | 2 months ago |
 | 🧮 Calculator                  | Completed ✅  | 3 months ago |
-| ⚙️ Config                      | Updated ⚡    | 2 months ago |
-| 🔒 Password Manager            | Updated ⚡    | 3 months ago |
+| ⚙️ Config                      | Completed ✅    | 2 months ago |
+| 🔒 Password Manager            | Completed ✅    | 3 months ago |
 | 📦 Python to EXE File          | Completed ✅  | Recently     |
 
 ### 🎯 **Future Goals**  
