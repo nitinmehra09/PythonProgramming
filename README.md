@@ -22,7 +22,7 @@ This repository serves as a structured learning path to enhance my Python skills
 ### ✅ **Fundamentals of Python**  
 - [x] Variables, Data Types, and Operators  
 - [x] Loops and Conditionals  
-- [x] Object-Oriented Programming (OOP)  
+- [ ] Object-Oriented Programming (OOP)  
 - [x] File Handling and Modules  
 
 ### 🚀 **Projects**  
